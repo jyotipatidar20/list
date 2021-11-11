@@ -1,0 +1,9 @@
+b=[[1,3],6,[2,8],[4],9,8]
+print(b[0][0])
+print(b[0][1])
+print(b[1])
+print(b[2][0])
+print(b[2][1])
+print(b[3][0])
+print(b[4])
+print(b[5])
